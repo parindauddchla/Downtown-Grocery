@@ -42,6 +42,10 @@ if (isset($_SESSION['email'])) {
                             <div class="form-group">
                                 <input  type="text" class="form-control"  placeholder="City" name="city" required = "true">
                             </div>
+			
+                            <div class="form-group">
+                                <input  type="text" class="form-control"  placeholder="Address" name="address" required = "true">
+                            </div>
                        
                             <button type="submit" name="submit" class="btn btn-primary">Submit</button>
                         </form>
