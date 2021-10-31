@@ -1,0 +1,1 @@
+This folder contains all the files required for include operation of the coding part and which are used by other files.
