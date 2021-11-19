@@ -32,27 +32,27 @@
             <div class="card custom-card">
                 <img src="img/1.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Cameras</h5>
+                    <h4 class="card-title">Daily use Food</h4>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="products.php#cameras" class="btn btn-outline-success">Go somewhere</a>
+                    <a href="products.php#food" class="btn btn-outline-success">Go somewhere</a>
                 </div>
             </div>
 
             <div class="card custom-card">
                 <img src="img/10.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Watches</h5>
+                    <h4 class="card-title">Bakery</h4>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="products.php#watches" class="btn btn-outline-success">Go somewhere</a>
+                    <a href="products.php#bakery" class="btn btn-outline-success">Go somewhere</a>
                 </div>
             </div>
 
             <div class="card custom-card">
                 <img src="img/13.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Shirts</h5>
+                    <h4 class="card-title">Beverages</h4>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="products.php#shirts" class="btn btn-outline-success">Go somewhere</a>
+                    <a href="products.php#beverages" class="btn btn-outline-success">Go somewhere</a>
                 </div>
             </div>
 
